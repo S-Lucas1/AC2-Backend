@@ -1,2 +1,6 @@
 # AC2-Backend
-Repósitorio para projeto Backend AC2, da matéria de desenvolvimento web.
+
+Repositório para o projeto Backend AC2, da matéria de desenvolvimento web.
+
+- Lucas Carvalho de Souza - 212169    
+- Yasmin de Oliveira Teixeira - 212183
